@@ -1,8 +1,8 @@
 # amg-garage-doors-v2
 
-http://www.amggaragedoors.com/
-
 AMG Garage Doors website 2015 (local buisness in Sligo, Ireland).
+
+http://www.amggaragedoors.com/
 
 HTML5 powered template based on http://bootstraptaste.com/
 
