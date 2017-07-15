@@ -18,7 +18,7 @@ Deployable via any Java Servlet implementation (maven tomcat plugin) / any JEE w
 
 To build & deploy:
 
-$ clean install tomcat7::run
+$ mvn clean install tomcat7::run
 
 ..
 
